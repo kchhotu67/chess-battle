@@ -12,13 +12,23 @@ Download the Project folder and run the main.py file
   pip install pygame
   ```
 ## Screenshots
+ * #### Main Menu
 ![Screenshot](screenshots/1.jpg)
+
+ * #### Game Screen
 ![Screenshot](screenshots/2.jpg)
+
+ * #### Game Screen with killed piece
 ![Screenshot](screenshots/3.jpg)
+
+ * #### Game Mode
 ![Screenshot](screenshots/4.jpg)
-![Screenshot](screenshots/5.jpg)
+
+ * #### Game Level Screen
 ![Screenshot](screenshots/6.jpg)
-![Screenshot](screenshots/7.jpg)
+ * #### Checkmate Screen
+![Screenshot](screenshots/5.jpg)
+
 
 
 ## Game Menu
@@ -39,7 +49,7 @@ Download the Project folder and run the main.py file
 
 ## Game Features
 * ### Undo/Redo Feature
-    This is important feature of Game. It allows player to revert his/her move. It works in both game mode (vs computer and vs human).
+    This is important feature of Game. It allows player to revert his/her move. It works in both game mode (vs computer and vs human). It can be use by pressing Backspace button on keyboard.
 * ### Continue
     This feature of game allows players to continue his/her game from where he/she left the game last time.
 * ### Game Mode
