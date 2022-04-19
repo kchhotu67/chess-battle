@@ -13,12 +13,12 @@ Download the Project folder and run the main.py file
   ```
 ## Screenshots
 ![Screenshot](screenshots/1.jpg)
-![Screenshot](screenshots/1.jpg)
-![Screenshot](screenshots/1.jpg)
-![Screenshot](screenshots/1.jpg)
-![Screenshot](screenshots/1.jpg)
-![Screenshot](screenshots/1.jpg)
-![Screenshot](screenshots/1.jpg)
+![Screenshot](screenshots/2.jpg)
+![Screenshot](screenshots/3.jpg)
+![Screenshot](screenshots/4.jpg)
+![Screenshot](screenshots/5.jpg)
+![Screenshot](screenshots/6.jpg)
+![Screenshot](screenshots/7.jpg)
 
 
 ## Game Menu
@@ -74,4 +74,4 @@ Download the Project folder and run the main.py file
 ## Alpha-Beta Pruning
 * Alpha-beta pruning is a modified version of the minimax algorithm. It is an optimization technique for the minimax algorithm.
 ## Developers
-* ### Chhotu Kumar ME18B045 IIT MADRAS 2021
+* ### Chhotu Kumar ME18B045 IIT MADRAS
